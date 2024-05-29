@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-28T16:25:39 IST" name="Default suite" finished-at="2024-05-28T16:26:29 IST" duration-ms="50682">
+    <groups>
+    </groups>
+    <test started-at="2024-05-28T16:25:39 IST" name="Default test" finished-at="2024-05-28T16:26:29 IST" duration-ms="50682">
+      <class name="com.ShoppersStack.testScripts.check_user_is__able_to_upadateAddress_Test">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:com.ShoppersStack.testScripts.check_user_is__able_to_upadateAddress_Test@3a7442c7]" started-at="2024-05-28T16:25:39 IST" name="beforesuite" finished-at="2024-05-28T16:25:39 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:com.ShoppersStack.testScripts.check_user_is__able_to_upadateAddress_Test@3a7442c7]" started-at="2024-05-28T16:25:39 IST" name="beforetest" finished-at="2024-05-28T16:25:39 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.ShoppersStack.testScripts.check_user_is__able_to_upadateAddress_Test@3a7442c7]" started-at="2024-05-28T16:25:39 IST" name="beforeclass" finished-at="2024-05-28T16:25:44 IST" duration-ms="4628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:com.ShoppersStack.testScripts.check_user_is__able_to_upadateAddress_Test@3a7442c7]" started-at="2024-05-28T16:25:44 IST" name="beforeMethods" finished-at="2024-05-28T16:25:56 IST" duration-ms="12786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="updateAddress()[pri:0, instance:com.ShoppersStack.testScripts.check_user_is__able_to_upadateAddress_Test@3a7442c7]" started-at="2024-05-28T16:25:56 IST" name="updateAddress" finished-at="2024-05-28T16:26:25 IST" duration-ms="28881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAddress -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.ShoppersStack.testScripts.check_user_is__able_to_upadateAddress_Test@3a7442c7]" started-at="2024-05-28T16:26:25 IST" name="afterMethod" finished-at="2024-05-28T16:26:25 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.ShoppersStack.testScripts.check_user_is__able_to_upadateAddress_Test@3a7442c7]" started-at="2024-05-28T16:26:25 IST" name="afterclass" finished-at="2024-05-28T16:26:29 IST" duration-ms="3461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:com.ShoppersStack.testScripts.check_user_is__able_to_upadateAddress_Test@3a7442c7]" started-at="2024-05-28T16:26:29 IST" name="aftertest" finished-at="2024-05-28T16:26:29 IST" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuit()[pri:0, instance:com.ShoppersStack.testScripts.check_user_is__able_to_upadateAddress_Test@3a7442c7]" started-at="2024-05-28T16:26:29 IST" name="aftersuit" finished-at="2024-05-28T16:26:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuit -->
+      </class> <!-- com.ShoppersStack.testScripts.check_user_is__able_to_upadateAddress_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

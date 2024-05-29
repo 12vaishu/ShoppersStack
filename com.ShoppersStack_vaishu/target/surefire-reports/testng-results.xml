@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-28T16:46:00 IST" name="Suite" finished-at="2024-05-28T16:46:49 IST" duration-ms="49051">
+    <groups>
+    </groups>
+    <test started-at="2024-05-28T16:46:00 IST" name="Test" finished-at="2024-05-28T16:46:49 IST" duration-ms="49051">
+      <class name="com.ShoppersStack.testScripts.verify_user_is_able_to_add_address_or_not_Test">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:com.ShoppersStack.testScripts.verify_user_is_able_to_add_address_or_not_Test@1fa268de]" started-at="2024-05-28T16:46:00 IST" name="beforesuite" finished-at="2024-05-28T16:46:00 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:com.ShoppersStack.testScripts.verify_user_is_able_to_add_address_or_not_Test@1fa268de]" started-at="2024-05-28T16:46:00 IST" name="beforetest" finished-at="2024-05-28T16:46:00 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.ShoppersStack.testScripts.verify_user_is_able_to_add_address_or_not_Test@1fa268de]" started-at="2024-05-28T16:46:00 IST" name="beforeclass" finished-at="2024-05-28T16:46:06 IST" duration-ms="6162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethods()[pri:0, instance:com.ShoppersStack.testScripts.verify_user_is_able_to_add_address_or_not_Test@1fa268de]" started-at="2024-05-28T16:46:06 IST" name="beforeMethods" finished-at="2024-05-28T16:46:28 IST" duration-ms="22176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="addAddress()[pri:0, instance:com.ShoppersStack.testScripts.verify_user_is_able_to_add_address_or_not_Test@1fa268de]" started-at="2024-05-28T16:46:28 IST" name="addAddress" finished-at="2024-05-28T16:46:44 IST" duration-ms="15863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddress -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.ShoppersStack.testScripts.verify_user_is_able_to_add_address_or_not_Test@1fa268de]" started-at="2024-05-28T16:46:44 IST" name="afterMethod" finished-at="2024-05-28T16:46:45 IST" duration-ms="615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.ShoppersStack.testScripts.verify_user_is_able_to_add_address_or_not_Test@1fa268de]" started-at="2024-05-28T16:46:45 IST" name="afterclass" finished-at="2024-05-28T16:46:48 IST" duration-ms="3551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:com.ShoppersStack.testScripts.verify_user_is_able_to_add_address_or_not_Test@1fa268de]" started-at="2024-05-28T16:46:48 IST" name="aftertest" finished-at="2024-05-28T16:46:49 IST" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuit()[pri:0, instance:com.ShoppersStack.testScripts.verify_user_is_able_to_add_address_or_not_Test@1fa268de]" started-at="2024-05-28T16:46:49 IST" name="aftersuit" finished-at="2024-05-28T16:46:49 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuit -->
+      </class> <!-- com.ShoppersStack.testScripts.verify_user_is_able_to_add_address_or_not_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
